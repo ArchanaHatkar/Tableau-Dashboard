@@ -1,6 +1,13 @@
 # AH Bank ltd. Dashboard
 ## Project Objective
 The AH Bank Ltd. Dashboard provides an overview of key customer demographics and business insights, including job classification, customer growth, top customers, regional distribution, and gender split. It visualizes data using treemaps, bar charts, and pie charts to help stakeholders understand customer trends and make data-driven decisions.
+
+## Dataset Used
+- <a href="https://github.com/ArchanaHatkar/Tableau-Dashboard/blob/main/AH%20Bank%20ltd.xlsx">Dataset</a>
+
+## Dashboard Interaction
+- <a href="https://github.com/ArchanaHatkar/Tableau-Dashboard/blob/main/AH%20Bank%20LTD.%20Dashboard%20(1).png">Dashboard</a>
+
 Key Insights
 #### 1. Job Classification
 The majority of customers belong to the White Collar segment (48.70%).
@@ -36,3 +43,6 @@ Insight: AH Bank has a diverse customer base, which suggests that marketing effo
 
 #### Conclusion
 This dashboard highlights the bank’s customer demographics, growth trends, and key business opportunities. Understanding customer segments, regional strengths, and top-performing individuals can help optimize banking products and services for better customer engagement and business growth.
+
+## Dashboard
+![AH Bank LTD  Dashboard (1)](https://github.com/user-attachments/assets/15f6e8eb-d4b1-4abd-8c69-4a7fb14d5de5)
